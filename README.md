@@ -1,6 +1,6 @@
 # training_fitness_videoplayer
 
-A new Flutter project.
+A new Flutter project for storing the lectures for students.
 
 ## Getting Started
 
