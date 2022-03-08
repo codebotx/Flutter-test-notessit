@@ -1,6 +1,6 @@
 # training_fitness_videoplayer
 
-A new Flutter project for storing the lectures for students.
+A new Flutter video player app containing lectures for students of SIT.
 
 ## Getting Started
 
