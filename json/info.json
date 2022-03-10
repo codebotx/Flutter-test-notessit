@@ -1,0 +1,26 @@
+[
+  {
+    "title": "C Programming",
+    "img": "assets/ex1.png"
+  },
+  {
+    "title": "Python Programming",
+    "img": "assets/ex2.png"
+  },
+  {
+    "title": "Web Development",
+    "img": "assets/ex3.png"
+  },
+  {
+    "title": "Data Science ",
+    "img": "assets/ex4.png"
+  },
+  {
+    "title": "DevOps",
+    "img": "assets/ex3.png"
+  },
+  {
+    "title": "Cloud Computing",
+    "img": "assets/ex4.png"
+  }
+]
